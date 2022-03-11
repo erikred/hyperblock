@@ -1,2 +1,4 @@
 Esta es la historia de como voy aprendiendo GIT el sistema de control de versiones más usado en la actualidad.
 Seguimos con la segunda clase en donde vemos el comando show de git para ver los cambios en este archivo.
+Ahora hicimos un commit sin poner el moficador -m para describir el cambio y luego GIT nos obligo a poner un mensaje en una nueva interface y para salir de ella.
+Hay que presionar ESC+Shit+Z+Z una cosa rara.
