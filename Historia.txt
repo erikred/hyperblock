@@ -6,3 +6,4 @@ Hay que presionar ESC+Shit+Z+Z una cosa rara.
 No era una nueva iterface sino un editor de codigo dentro de consola de GIT llamado VIM
 Y el comando para salir era el commando de guardar en VIM....para empezar a escribir por cierto en VIM se una ESC+I 
 Hice un fork desde el usuario de GitHub pariksit7 y luego de haber agregado este campo lo volveré a unir con el original del usuario erikred
+Y ahora yo desde GitHub como pariksit7 haré un commit en este Fork.
