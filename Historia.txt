@@ -3,6 +3,9 @@ Seguimos con la segunda clase en donde vemos el comando show de git para ver los
 Ahora hicimos un commit sin poner el moficador -m para describir el cambio y luego GIT nos obligo a poner un mensaje en una nueva interface y para salir de ella.
 Hay que presionar ESC+Shit+Z+Z una cosa rara.
 
+
+Master 2 - agregado en la clase 35
+
 Master 1 - agregado en la clase 35 del Curso de GIT y GitHub 19-03-2022.
 
 No era una nueva iterface sino un editor de codigo dentro de consola de GIT llamado VIM
