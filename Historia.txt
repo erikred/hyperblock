@@ -6,6 +6,8 @@ Hay que presionar ESC+Shit+Z+Z una cosa rara.
 
 Master 2 - agregado en la clase 35
 
+Experimento 1 - agregado en clase 35
+
 Master 1 - agregado en la clase 35 del Curso de GIT y GitHub 19-03-2022.
 
 No era una nueva iterface sino un editor de codigo dentro de consola de GIT llamado VIM
